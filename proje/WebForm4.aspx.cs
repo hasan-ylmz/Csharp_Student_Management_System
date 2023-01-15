@@ -14,7 +14,7 @@ namespace proje
         {  
         }
 
-        SqlConnection amk = new SqlConnection("Data Source=LAPTOP-FJ35BN93;Initial Catalog=ödev;Integrated Security=True");
+        SqlConnection amk = new SqlConnection("Data Source=LAPTOP-....(laptop name);Initial Catalog=ödev;Integrated Security=True");
 
         protected void Button1_Click1(object sender, EventArgs e)
         {
